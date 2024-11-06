@@ -1,0 +1,242 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Which word means the same as \"famous\"?",
+    "options": [
+      "Unknown",
+      "Popular",
+      "Adult",
+      "Mean"
+    ],
+    "correct": 1,
+    "explanation": "\"Famous\" and \"popular\" both mean that many people know about someone or something. They're synonyms because they have almost the same meaning."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "What's the opposite of \"kid\"?",
+    "options": [
+      "Child",
+      "Adult",
+      "Supporter",
+      "Entertainer"
+    ],
+    "correct": 1,
+    "explanation": "\"Kid\" means a young person, while \"adult\" means a grown-up person. They're antonyms because they mean opposite things - one is young, and the other is fully grown."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Which word is a synonym for \"discovered\"?",
+    "options": [
+      "Found",
+      "Undiscovered",
+      "Lost",
+      "Hidden"
+    ],
+    "correct": 0,
+    "explanation": "\"Discovered\" and \"found\" both mean to come across something new or to learn about something for the first time. They're synonyms because they have very similar meanings."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "What's an antonym for \"impossible\"?",
+    "options": [
+      "Unthinkable",
+      "Amazing",
+      "Possible",
+      "Exciting"
+    ],
+    "correct": 2,
+    "explanation": "\"Impossible\" means something can't be done, while \"possible\" means something can be done. They're antonyms because they have opposite meanings."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Which word means the same as \"exciting\"?",
+    "options": [
+      "Boring",
+      "Ordinary",
+      "Thrilling",
+      "Few"
+    ],
+    "correct": 2,
+    "explanation": "\"Exciting\" and \"thrilling\" both describe something that makes you feel very happy or enthusiastic. They're synonyms because they express similar feelings of excitement."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "What's the opposite of \"amazing\"?",
+    "options": [
+      "Stunning",
+      "Ordinary",
+      "Thrilling",
+      "Popular"
+    ],
+    "correct": 1,
+    "explanation": "\"Amazing\" means something is very impressive or surprising, while \"ordinary\" means something is normal or not special. They're antonyms because they describe opposite qualities."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "What's an antonym for \"many\"?",
+    "options": [
+      "Numerous",
+      "Few",
+      "Popular",
+      "Supporters"
+    ],
+    "correct": 1,
+    "explanation": "\"Many\" means a large number, while \"few\" means a small number. They're antonyms because they describe opposite quantities."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Which word means the same as \"admire\"?",
+    "options": [
+      "Hate",
+      "Mean",
+      "Uncaring",
+      "Praise"
+    ],
+    "correct": 3,
+    "explanation": "\"Admire\" and \"praise\" both mean to think highly of someone or to express approval. They're synonyms because they show positive feelings towards someone."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "What's the opposite of \"dedication\"?",
+    "options": [
+      "Laziness",
+      "Commitment",
+      "Caring",
+      "Discovered"
+    ],
+    "correct": 0,
+    "explanation": "\"Dedication\" means working hard and being committed, while \"laziness\" means not wanting to work or putting in effort. They're antonyms because they describe opposite attitudes towards work."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "In the sentence “He is very kind to me.” What is the synonym of the word “Kind”?",
+    "options": [
+      "Mean",
+      "Uncaring",
+      "Nice",
+      "Critics"
+    ],
+    "correct": 2,
+    "explanation": "\"Kind\" and \"nice\" both describe someone friendly, caring, and good to others. They're synonyms because they express similar positive qualities about a person. We can also write: “He is very nice to me.”"
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "What's an antonym for \"caring\"?",
+    "options": [
+      "Thoughtful",
+      "Kind",
+      "Uncaring",
+      "Supporters"
+    ],
+    "correct": 2,
+    "explanation": "\"Caring\" means showing concern for others, while \"uncaring\" means not showing concern. They're antonyms because they describe opposite attitudes towards others' feelings."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Which word means the same as \"fans\"?",
+    "options": [
+      "Critics",
+      "Supporters",
+      "Unknown",
+      "Adult"
+    ],
+    "correct": 1,
+    "explanation": "\"Fans\" and \"supporters\" both refer to people who like and encourage someone or something. They're synonyms because they describe people with similar positive feelings."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "What's the opposite of \"well-known\"?",
+    "options": [
+      "Famous",
+      "Popular",
+      "Unknown",
+      "Exciting"
+    ],
+    "correct": 2,
+    "explanation": "\"Well-known\" means many people know about something, while \"unknown\" means very few people know about it. They're antonyms because they describe opposite levels of familiarity."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Which word is a synonym for \"actors\"?",
+    "options": [
+      "Entertainers",
+      "Critics",
+      "Adults",
+      "Supporters"
+    ],
+    "correct": 0,
+    "explanation": "\"Actors\" and \"entertainers\" both refer to people who perform to amuse or entertain an audience. They're synonyms because they describe people with similar jobs in the entertainment industry."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Which word means the same as \"stunning\"?",
+    "options": [
+      "Ordinary",
+      "Amazing",
+      "Few",
+      "Uncaring"
+    ],
+    "correct": 1,
+    "explanation": "\"Stunning\" and \"amazing\" both describe something that is extremely impressive or surprising. They're synonyms because they express similar feelings of awe or admiration."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "What's the opposite of \"Love\"?",
+    "options": [
+      "Admire",
+      "Like",
+      "Hate",
+      "Caring"
+    ],
+    "correct": 2,
+    "explanation": "\"Love\" means to express admiration, while \"hate\" means to strongly dislike. They're antonyms because they describe opposite feelings towards someone or something."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Which word is a synonym for \"commitment\"?",
+    "options": [
+      "Laziness",
+      "Dedication",
+      "Unknown",
+      "Critics"
+    ],
+    "correct": 1,
+    "explanation": "\"Commitment\" and \"dedication\" both mean being devoted to a task or purpose. They're synonyms because they describe a similar attitude of working hard towards a goal."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Which word means the same as \"numerous\"?",
+    "options": [
+      "Few",
+      "Unknown",
+      "Ordinary",
+      "Many"
+    ],
+    "correct": 3,
+    "explanation": "\"Numerous\" and \"many\" both mean a large number or quantity of something. They're synonyms because they describe similar amounts."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "What's an antonym for \"supporter\"?",
+    "options": [
+      "Fan",
+      "Critic",
+      "Entertainer",
+      "Popular"
+    ],
+    "correct": 1,
+    "explanation": "A \"supporter\" is someone who encourages and stands by someone, while a \"critic\" is someone who judges and often finds fault. They're antonyms because they have opposite attitudes."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Which word means the same as \"unthinkable\"?",
+    "options": [
+      "Possible",
+      "Ordinary",
+      "Impossible",
+      "Known"
+    ],
+    "correct": 2,
+    "explanation": "\"Unthinkable\" and \"impossible\" both describe something that cannot happen or is extremely unlikely. They're synonyms because they express a similar idea of something being not possible."
+  }
+]
